@@ -1,3 +1,4 @@
+;Lab Programe_5
 .MODEL SMALL
 DISP MACRO MSG
 LEA DX,MSG
